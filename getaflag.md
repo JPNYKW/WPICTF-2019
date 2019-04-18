@@ -61,13 +61,13 @@ N, it'll show a link button written "get a flag".
 But, that is a dummy. (If u click, jump 2 [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
 So, u must open Dev tool. open console. U can get a flag!
 
-**8.** Enter that copied 2 4m.
-
-**9.** U get the flag.
+**8.** U got the flag.
 
 ```
 WPI{1_l0v3_PHP}
 ```
+
+**9.** Enter that copied 2 4m.
 
 # Done
 
