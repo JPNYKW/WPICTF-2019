@@ -6,11 +6,37 @@ WPICTF web / getaflag / 150pt
 
 2. Find a comment encoded by base64 in html.
 
+```
+SGV5IEdvdXRoYW0sIGRvbid0IGZvcmdldCB0byBibG9jayAvYXV0aC5waHAgYWZ0ZXIgeW91IHVwbG9hZCB0aGlzIGNoYWxsZW5nZSA7KQ==
+```
+
 3. Decode that. n, read that sentence.
+
+```
+Hey Goutham, don't forget to block /auth.php after you upload this challenge ;)
+```
+
+That sentence is message for developer who is made that website.  
+We can understand it has a hint or answer of the flag.
 
 4. Access `/auth.php`.
 
-There is the source code.
+There is the php source code.  
+
+```php
+// Pseudocode
+$passcode = '???';
+$flag = '????'
+
+extract($_GET);
+if (($input is detected)) {
+  if ($input === get_contents($passcode)) {
+    return $flag
+  } else {
+    echo "Invalid ... Please try again!"
+  }
+}
+```
 
 5. Watch out this line.
 
@@ -41,7 +67,7 @@ So, u must open Dev tool. open console. U can get a flag!
 10. U get the flag.
 
 ```
-WPI_{フラグ忘れた！w}
+WPI{1_l0v3_PHP}
 ```
 
 # Done
