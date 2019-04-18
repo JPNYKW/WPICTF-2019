@@ -9,4 +9,5 @@ category / pt sorted.
 | - | - | - | - | -
 | 🚩 | getaflag | web | 150 | [here](https://github.com/JPNYKW/WPICTF/blob/master/getaflag.md)
 | 🚩 | webInspect | web | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/webInspect.md)
+| - | suckmore-shell | linux | 100 | -
 | - | chirp | recon | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/chirp.md)
