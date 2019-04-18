@@ -1,5 +1,4 @@
-I joined with [@rabo](https://github.com/rabosakaki).
-Thanks 4 u.
+I joined with [@rabo](https://github.com/rabosakaki). Thanks 4 u.
 
 # WPICTF
 
