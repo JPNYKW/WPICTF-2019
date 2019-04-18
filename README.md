@@ -3,8 +3,10 @@ His writeup is [here](https://scrapbox.io/luckyrat/%E3%80%90CTF-20180415%E3%80%9
 
 # WPICTF
 
+category / pt sorted.
+
 | result | name | category | pt | link
 | - | - | - | - | -
-| 🚩 | webInspect | web | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/webInspect.md)
 | 🚩 | getaflag | web | 150 | [here](https://github.com/JPNYKW/WPICTF/blob/master/getaflag.md)
+| 🚩 | webInspect | web | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/webInspect.md)
 | - | chirp | recon | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/chirp.md)
