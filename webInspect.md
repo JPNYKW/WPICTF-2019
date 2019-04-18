@@ -4,7 +4,7 @@ WPICTF web / webInspect / 50pt
 
 This is super ez problem.
 
-1. Open dev-toll, n view elements.
+1. Open dev-toll, n view html.
 
 2. Search (ctrl + F) n enter `WPI`
 
