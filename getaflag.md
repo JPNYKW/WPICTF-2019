@@ -20,7 +20,7 @@ extract($_GET)
 
 This method will be generate an array from primitive params.  
 But, if the name was already taken on scope, that value will be override.  
-Cuz, u can override passcode. N, $_input was input from URL parameters.
+Cuz, u can override passcode. N, `$_GET` was input from URL parameters.
 
 7. Access top page. do use parameters.
 
