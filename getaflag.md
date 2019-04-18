@@ -2,7 +2,7 @@ WPICTF web / getaflag / 150pt
 
 # How 2 solve this.
 
-**1.** Open Dev tool in top page (login 4m)
+**1.** Open Dev tool in top page (login form)
 
 **2.** Find a comment encoded by base64 in html.
 
@@ -61,13 +61,13 @@ N, it'll show a link button written "get a flag".
 But, that is a dummy. (If u click, jump 2 [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
 So, u must open Dev tool. open console. U can get a flag!
 
-**8.** U got the flag.
+**8.** Get the flag.
 
 ```
 WPI{1_l0v3_PHP}
 ```
 
-**9.** Enter that copied 2 4m.
+Enter that 2 form.
 
 # Done
 
