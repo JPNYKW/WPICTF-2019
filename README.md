@@ -20,7 +20,7 @@ Progress:
 
 | mark | status
 | - | -
-| ✔ | Finished writeup
+| ✔️ | Finished writeup
 | - | Not finished
 
 # Writeup
@@ -28,7 +28,8 @@ Progress:
 | progress | result | name | category | pt | link
 | - | - | - | - | - | -
 | - | - | Beenum Tech Support | web | 300 | -
-| ✔ | 🚩 | getaflag | web | 150 | [here](https://github.com/JPNYKW/WPICTF/blob/master/getaflag.md)
-| ✔ | 🚩 | WebInspect | web | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/webInspect.md)
+| ✔️ | 🚩 | getaflag | web | 150 | [here](https://github.com/JPNYKW/WPICTF/blob/master/getaflag.md)
+| ✔️ | 🚩 | WebInspect | web | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/webInspect.md)
 | - | - | suckmore-shell | linux | 100 | -
 | - | - | Chirp | recon | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/chirp.md)
+| ✔️ | 🚩 | jocipher | cryptography | 100 | [here](https://scrapbox.io/luckyrat/【CTF-20190415】WPICTF2019_WriteUp)
