@@ -2,7 +2,7 @@ WPICTF web / getaflag / 150pt
 
 # How 2 solve this.
 
-**1.** Open Dev tool in top page (login form)
+**1.** Open dev-tool in top page (login form)
 
 **2.** Find a comment encoded by base64 in html.
 
@@ -59,7 +59,7 @@ input=&passcode=
 
 N, it'll show a link button written "get a flag".  
 But, that is a dummy. (If u click, jump 2 [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
-So, u must open Dev tool. open console. U can get a flag!
+So, u must open dev-tool. open console. U can get a flag!
 
 **8.** Get the flag.
 
