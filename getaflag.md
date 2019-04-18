@@ -2,7 +2,7 @@ WPICTF web / getaflag / 150pt
 
 # How 2 solve this.
 
-1. Open Dev tool in top page (login form)
+1. Open Dev tool in top page (login 4m)
 
 2. Find a comment encoded by base64 in html.
 
@@ -31,9 +31,9 @@ passcode=&input=
 8. Displayed successful login.
 
 N, it'll show a link button written "get a flag".  
-But, that is a dummy. (If u click, jump to YouTube)  
+But, that is a dummy. (If u click, jump 2 YouTube)  
 So, u must open Dev tool. open console. U can get a flag!
 
-9. Enter that copied to form. U solved it.
+9. Enter that copied 2 4m. U solved it.
 
 **U G07 150 p7;**
