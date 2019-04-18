@@ -3,7 +3,7 @@ His writeup is [here](https://scrapbox.io/luckyrat/%E3%80%90CTF-20180415%E3%80%9
 
 # WPICTF
 
-tried list. sorted by pt (category)
+Tried problems list. sorted by pt (category)
 
 | result | name | category | pt | link
 | - | - | - | - | -
