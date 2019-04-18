@@ -21,3 +21,14 @@ $ binwalk -e chal.jpg
 ```
 
 Couldn't find the flag.
+
+2. Analaized more detail from step 1
+
+Next, i used GUI tool for analyze image / plane text.
+
+#### Visualize binary data
+
+![image](https://github.com/JPNYKW/WPICTF/blob/master/img/chalToBinary.png)
+
+But, no such some patterns in this ...  
+I couldn't get something.
