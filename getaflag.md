@@ -18,7 +18,7 @@ extract($_GET)
 
 6. This is the point of exploit.
 
-This method will be generate an array from primitive params.  
+This method will be generate an array from primitive parameters.  
 But, if the name was already taken on scope, that value will be override.  
 Cuz, u can override passcode. n `$_GET` was input from URL parameters.
 
