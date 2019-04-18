@@ -10,6 +10,8 @@ WPICTF web / getaflag / 150pt
 
 4. Access `/auth.php`.
 
+There is the source code.
+
 5. Watch out this line.
 
 ```php
