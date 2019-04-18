@@ -3,7 +3,9 @@ His writeup is [here](https://scrapbox.io/luckyrat/%E3%80%90CTF-20180415%E3%80%9
 
 # WPICTF
 
-Tried problems list. sorted by pt (category)
+Tried problems list. sorted by pt (category)  
+the data has flag in result, that was i solved.  
+n other not problems are couldn't solved.
 
 | result | name | category | pt | link
 | - | - | - | - | -
