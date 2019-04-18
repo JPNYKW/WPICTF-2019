@@ -40,6 +40,10 @@ So, u must open Dev tool. open console. U can get a flag!
 
 10. U get the flag.
 
+```
+WPI_{フラグ忘れた！w}
+```
+
 # Done
 
 **U G07 150 p7;**
