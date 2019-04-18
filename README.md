@@ -7,7 +7,8 @@ category / pt sorted.
 
 | result | name | category | pt | link
 | - | - | - | - | -
+| - | Beenum Tech Support | web | 300 | -
 | 🚩 | getaflag | web | 150 | [here](https://github.com/JPNYKW/WPICTF/blob/master/getaflag.md)
-| 🚩 | webInspect | web | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/webInspect.md)
+| 🚩 | WebInspect | web | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/webInspect.md)
 | - | suckmore-shell | linux | 100 | -
-| - | chirp | recon | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/chirp.md)
+| - | Chirp | recon | 50 | [here](https://github.com/JPNYKW/WPICTF/blob/master/chirp.md)
