@@ -36,7 +36,9 @@ N, it'll show a link button written "get a flag".
 But, that is a dummy. (If u click, jump 2 YouTube)  
 So, u must open Dev tool. open console. U can get a flag!
 
-9. Enter that copied 2 4m. U solved it.
+9. Enter that copied 2 4m.
+
+10. U get the flag.
 
 # Done
 
