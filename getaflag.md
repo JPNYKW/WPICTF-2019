@@ -6,7 +6,7 @@ WPICTF web / getaflag / 150pt
 
 2. Find a comment encoded by base64 in html.
 
-3. Decode that. N, read that sentence.
+3. Decode that. n, read that sentence.
 
 4. Access `/auth.php`.
 
@@ -20,7 +20,7 @@ extract($_GET)
 
 This method will be generate an array from primitive params.  
 But, if the name was already taken on scope, that value will be override.  
-Cuz, u can override passcode. N, `$_GET` was input from URL parameters.
+Cuz, u can override passcode. n `$_GET` was input from URL parameters.
 
 7. Access top page. do use parameters.
 
