@@ -33,7 +33,7 @@ passcode=&input=
 8. Displayed successful login.
 
 N, it'll show a link button written "get a flag".  
-But, that is a dummy. (If u click, jump 2 YouTube)  
+But, that is a dummy. (If u click, jump 2 [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
 So, u must open Dev tool. open console. U can get a flag!
 
 9. Enter that copied 2 4m.
