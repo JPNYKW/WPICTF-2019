@@ -32,3 +32,12 @@ Next, i used GUI tool for analyze image / plane text.
 
 But, no such some patterns in this ...  
 I couldn't get something.
+
+# Correct answer
+
+I felt shock when know the answer.
+The color is blue that bird.
+
+Cuz ........ This is Twitter.
+
+誰が分かるんだよ、これ
