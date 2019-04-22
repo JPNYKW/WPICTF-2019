@@ -30,7 +30,6 @@ Next, i used GUI tool for analyze image / plane text.
 
 ![image](https://github.com/JPNYKW/WPICTF/blob/master/img/chalToBinary.png)
 
-But, no such some patterns in this ...  
 I couldn't get something.
 
 # Correct answer
